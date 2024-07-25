@@ -7,6 +7,22 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+.submitSpace
+{
+	margin-top: 30px;
+}
+
+.communityMargin
+{
+	margin-bottom: 45px;
+}
+
+.resumeButton
+{
+	margin-top: 20px;
+	color: white !important;
+}
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -2446,7 +2462,7 @@ input, select, textarea {
 		background-color: transparent;
 		border-radius: 0.35em;
 		border: solid 3px #efefef;
-		color: #787878 !important;
+		color: #787878 /*!important*/;
 		cursor: pointer;
 		display: inline-block;
 		font-weight: 400;
